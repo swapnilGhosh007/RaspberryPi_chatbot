@@ -6,7 +6,7 @@ sudo apt-get upgrade
 python3 --version
 2. Package Installation
 sudo apt-get install python3-pip
-sudo apt-get install portaudio19-dev python3-pyaudio
+sudo apt-get install portaudio19-dev python3-pyaudio 
 pip3 install pyaudio
 pip3 install SpeechRecognition pyttsx3 gtts python-dotenv
 pip install openai
