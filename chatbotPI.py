@@ -8,7 +8,7 @@ import numpy as np
 
 # Load API key from environment variable
 load_dotenv()
-openai.api_key = os.getenv('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')
+openai.api_key = os.getenv('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')
 model = 'gpt-3.5-turbo'
 
 # Initialize the speech recognizer and text-to-speech engine
