@@ -18,7 +18,7 @@ voice = engine.getProperty('voices')[0]  # Adjust index based on the voice prefe
 engine.setProperty('voice', voice.id)
 
 # Bot's name
-bot_name = "Echo"
+bot_name = "Friday"
 
 # Define greetings
 name = "Nafee"
